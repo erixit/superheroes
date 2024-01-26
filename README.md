@@ -1,2 +1,2 @@
 # superheroes
-code from book 'Spring Boot and Angular', chapter 11
+code from book 'Spring Boot and Angular', chapter 17
